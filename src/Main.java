@@ -1,4 +1,4 @@
-import pobserverMagicBoard.Dwarf;
+import observerMagicBoard.Dwarf;
 import observerMagicBoard.MagicBoard;
 import observerMagicBoard.Observer;
 import singletonSantaClaus.SantaClaus;
